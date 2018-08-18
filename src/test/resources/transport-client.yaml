@@ -1,0 +1,5 @@
+cluster.name: elasticsearch-test
+client.transport.sniff: true
+client.transport.ignore_cluster_name: true
+client.transport.ping_timeout: 15s
+client.transport.nodes_sampler_interval: 15s
