@@ -17,7 +17,7 @@
     </parent>
 
     <properties>
-        <dependency.elasticsearch.version>6.3.2</dependency.elasticsearch.version>
+        <dependency.elasticsearch.version>6.4.1</dependency.elasticsearch.version>
         <dependency.testng.version>6.14.3</dependency.testng.version>
     </properties>
 
